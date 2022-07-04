@@ -1,3 +1,1 @@
-Silent Hill & Resident Evil fan.
-
-Interested in retro stuff.
+**NOW'S YOUR CHANCE TO BE A BIG SHOT!**
