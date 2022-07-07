@@ -4,6 +4,8 @@ Hello, i'm yoidog aka waled ali.
 
 ![langstat](https://github-readme-stats.vercel.app/api/top-langs/?username=yoidog)
 
+![activity](https://activity-graph.herokuapp.com/graph?username=yoidog&theme=minimal)
+
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) yoidogxD
 
 ![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) yoidogxD
