@@ -6,15 +6,25 @@ Hello, i'm yoidog aka waled ali.
 
 ![activity](https://activity-graph.herokuapp.com/graph?username=yoidog&theme=minimal)
 
-![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) yoidogxD
+![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) 
 
-![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) yoidogxD
+yoidogxD
 
-![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) yoidog
+![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) 
 
-![epicgames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) bonuslamer
+yoidogxD
 
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) bonuslamer (alt)
+![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
+
+yoidog
+
+![epicgames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) 
+
+bonuslamer
+
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) 
+
+bonuslamer (alt)
 
 IDE:
 
