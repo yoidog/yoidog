@@ -4,7 +4,7 @@ Hello, i'm yoidog aka waled ali.
 
 ![langstat](https://github-readme-stats.vercel.app/api/top-langs/?username=yoidog)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yoidog)
+[![wakatime](https://wakatime.com/badge/user/dd6cd0c3-8854-4d77-b001-8d475ba6a369.svg)](https://wakatime.com/@dd6cd0c3-8854-4d77-b001-8d475ba6a369)
 
 ![activity](https://activity-graph.herokuapp.com/graph?username=yoidog&theme=minimal)
 
