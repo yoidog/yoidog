@@ -2,8 +2,6 @@
 
 Hello, i'm yoidog aka waled ali.
 
-**__I do not like anime, my profile picture is from a game called yume nikki and i adore it.__**
-
 ![langstat](https://github-readme-stats.vercel.app/api/top-langs/?username=yoidog)
 
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) yoidogxD
